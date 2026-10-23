@@ -1,1 +1,8 @@
-1.0.0
+version=1.0.0
+principal=WR Suporte Servidor.exe
+url=https://github.com/hurricanesolucoes/downloads/releases/download/wr-servidor-v1.0.0/WR.Suporte.Servidor.exe
+sha256=eede4bd681dd49d371fa450895c3cc25fd2f48cbfe386e9bb9bee08e1c38d1c8
+files=1
+file1=WR Suporte Servidor.exe
+url1=https://github.com/hurricanesolucoes/downloads/releases/download/wr-servidor-v1.0.0/WR.Suporte.Servidor.exe
+sha256_1=eede4bd681dd49d371fa450895c3cc25fd2f48cbfe386e9bb9bee08e1c38d1c8
