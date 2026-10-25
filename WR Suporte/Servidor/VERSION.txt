@@ -1,8 +1,10 @@
-version=1.0.0
+version=1.0.1
 principal=WR Suporte Servidor.exe
-url=https://github.com/hurricanesolucoes/downloads/releases/download/wr-servidor-v1.0.0/WR.Suporte.Servidor.exe
-sha256=eede4bd681dd49d371fa450895c3cc25fd2f48cbfe386e9bb9bee08e1c38d1c8
+url=https://github.com/hurricanesolucoes/downloads/releases/download/wr-servidor-v1.0.1/WR-Suporte-Servidor.exe
+sha256=3ca81d158ea6fb56c611d629bc3491cc7fd69db4e68c5da09addac7940c8373a
 files=1
 file1=WR Suporte Servidor.exe
-url1=https://github.com/hurricanesolucoes/downloads/releases/download/wr-servidor-v1.0.0/WR.Suporte.Servidor.exe
-sha256_1=eede4bd681dd49d371fa450895c3cc25fd2f48cbfe386e9bb9bee08e1c38d1c8
+url1=https://github.com/hurricanesolucoes/downloads/releases/download/wr-servidor-v1.0.1/WR-Suporte-Servidor.exe
+sha256_1=3ca81d158ea6fb56c611d629bc3491cc7fd69db4e68c5da09addac7940c8373a
+signature_algorithm=rsa-sha256-v1
+signature=jpR5aRKbawbMKELseduLpWDm7ZYyhk+UQ8YZrVPTMNxQCw5shfDa0dl/0N49zN0PEmnH1oYyiPKvritFABmqOiF8LY+O8eN92KKqWJJNje/UfZ1hj7zWfIfACFcDIYx/BQcWouJrdil0H2oNuAB/qUG8YwXBWVkV0bYu0wmXjqndkuaMjR4aEVOOYZTPdjhY4TRJMiXmE/g+yAxV9RN8bObTHEUO01m/bbmy1DCy9xmWVDq6pNoBmljGCd7M2FUaq2aLzoIYfEOSQwdXlVZqM82cAhPN/GfLNFsIDshIYEkUTibviBrmRO7BN9gkMhRkrt3B5TXz1f3ZJX8xPcSfsYJtXXM+iaJpimheNISik/DjS2aif9+pp5d15qP/77DZELEYuRxqVHGjwY1qeRL9FX+S3VAGc/8pi21Gqb8ZQkm6WxLR0gxm2Gntz52HEbwtTLNhUPftWPascKoGBtMHrGmxAbWxZdfi4lvshVFc/ArU+hjg/ow8+vmBGcqTt5Kn
