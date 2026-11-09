@@ -1,0 +1,11 @@
+format=wr-client-update-v1
+version=1.0.0
+packages=1
+target1=linux-tunnel-x64
+version1=1.0.0
+file1=wr-tunnel
+url1=https://github.com/hurricanesolucoes/downloads/releases/download/wr-cliente-v1.0.4/wr-tunnel
+sha256_1=56aa44760f03c8649004467383b4eaf8e9f9a8d9c72d545592657a86bc472fec
+format1=elf
+signature_algorithm=rsa-sha256-v1
+signature=K/nAF2Gm4ZlncdAiIqbaJ+v+JHAyKrsMWeQLM3BFdmOKyGGYD1AqR6hYhxCmKJLr4sxUdXsJCHYGzEwWIo8GsgXFH4GUm12SSXpZ+YoDCyWi1ulsec8Xgy+AsAUTnk7f5dHAIFFnj9X4HDHOOXeTjyNB+idY1ll7KtXXGw/TN+jzTWmZcojjgNnVgn57hb2h7n+IKdAtStj4TZbBO0xivSsZtTRVF+zLAdXitUAkuLpPyeCFAOfbbiNJuovUiHiLtr/go5Cd9iXEJp7coGJwx1+m0wMsMstcYXBZZl3S+TjuSVlECeAFNZHqANX6GbgYFQtFV31ef6rSGLnyYI+p/dskgIpR62FYnGICoVrzO3v9t4J4WgKcdctM4+von5UjtXaHW7xQndsYZcXzCZpJfwHP7aGj15Q9pMfEryAVtccwYIafAMT7qiHl1KmUA9t/WTX/lMv+nCBkke3QCweBl82mPNEw+ZWpXU9huYZPnyJSIszklPSJAcfzm0pqP5a5
