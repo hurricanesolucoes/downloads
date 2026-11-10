@@ -1,0 +1,11 @@
+format=wr-client-update-v1
+version=1.0.0
+packages=1
+target1=windows-winrm-x64
+version1=1.0.0
+file1=wr-winrm.exe
+url1=https://github.com/hurricanesolucoes/downloads/releases/download/wr-cliente-v1.0.6/wr-winrm.exe
+sha256_1=812287b4d45313fd9f055991ae2875ceb59b6ee626d4be9a1916b10cbfb8fb62
+format1=exe
+signature_algorithm=rsa-sha256-v1
+signature=q/OiDSR1g5tlfUnEi4teCKG68iS0Ham8j7Bm/PRFcSvCJr6ymv0KG2NguGgQVuLUgAADHGE2hZIK4vu60jFU2X+Q7beSpI1pY/+AhUfqmIaXAT2jsXCTb78954sjp4ykIOymP4k0wAk1wog29tf7NEDNqo0L3Bnm0AhmdO2uqKfGb5E+fBYVs360H9O6DrrMMBR4yix7IR04LFQz4XqtpuCY5W/SDHBFCDnhB63PIMwtxilRnDlhi4iDOT7JG01HNkNcRvBIxq974sVBp9/9yYC31OCh3UBzo7CFooZdkaT/9hboZLKU8WaajCJNZPlzWZH0AFeJ8+KU+F/D42A/AEfFR/0fdqY4xiUQDV89ob3lumohG6kU4Rn9cSL3BZmxAmBMr+ARlNEp4LCLB9SQ4GmZxNNYBUz+SAS+xx2V75QNf3xL7SLz48Jr++HdFauwXaeXqB06vmRmP07g6cztvvXqx7O1bs4rdJp7slCGNp73LoiYL5s9deKpfkgUfuzj
